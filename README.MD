@@ -193,4 +193,4 @@ This project is licensed under the [MIT License](LICENSE).
 Thank you to the Spring Boot and Java communities for providing excellent tools and resources.
 
 ## Contact
-For questions or feedback, please contact [Amit Ashok Swain](mailto:business.amitswain@gmail.com)
+For questions or feedback, please contact [Jangam Ranjeeth](mailto:jangamr.jr@gmail.com)
